@@ -1,0 +1,159 @@
+15MAT11,maths,CSE,1
+15PHY12,physics,CSE,1
+15CIV13,civil,CSE,1
+15EME,mechanical,CSE,1
+15ELE,electrical,CSE,1
+15WSL,workshop,CSE,1
+15MAT11,maths,ECE,1
+15PHY12,physics,ECE,1
+15CIV13,civil,ECE,1
+15EME,mechanical,ECE,1
+15ELE,electrical,ECE,1
+15WSL,workshop,ECE,1
+15MAT11,maths,EC,1
+15PHY12,physics,EC,1
+15CIV13,civil,EC,1
+15EME,mechanical,EC,1
+15ELE,electrical,EC,1
+15WSL,workshop,EC,1
+15MAT11,maths,CIV,1
+15PHY12,physics,CIV,1
+15CIV13,civil,CIV,1
+15EME,mechanical,CIV,1
+15ELE,electrical,CIV,1
+15WSL,workshop,CIV,1
+15MAT11,maths,IS,1
+15PHY12,physics,IS,1
+15CIV13,civil,IS,1
+15EME,mechanical,IS,1
+15ELE,electrical,IS,1
+15WSL,workshop,IS,1
+15MAT21,maths2,CSE,2
+15CHE22,chemistry,CSE,2
+15PCD23,data structure,CSE,2
+15CED24,caed,CSE,2
+15ELN25,basic electronics,CSE,2
+15CPL26,environmental studies,CSE,2
+15MAT21,maths2,ECE,2
+15CHE22,chemistry,ECE,2
+15PCD23,data structure,ECE,2
+15CED24,caed,ECE,2
+15ELN25,basic electronics,ECE,2
+15CPL26,environmental studies,ECE,2
+15MAT21,maths2,CIV,2
+15CHE22,chemistry,CIV,2
+15PCD23,data structure,CIV,2
+15CED24,caed,CIV,2
+15ELN25,basic electronics,CIV,2
+15CPL26,environmental studies,CIV,2
+15MAT21,maths2,IS,2
+15CHE22,chemistry,IS,2
+15PCD23,data structure,IS,2
+15CED24,caed,IS,2
+15ELN25,basic electronics,IS,2
+15CPL26,environmental studies,IS,2
+15MAT31,maths3,CSE,3
+15CS32,analog and digital,CSE,3
+15CS33,data applications,CSE,3
+15CS34,computer oraganization,CSE,3
+15CS35,unix,CSE,3
+15CS36,DMS,CSE,3
+15MAT31,maths3,ECE,3
+15EC32,analog and digital,ECE,3
+15EC33,data applications,ECE,3
+15EC34,computer oraganization,ECE,3
+15EC35,unix,ECE,3
+15EC36,DMS,ECE,3
+15MAT31,maths3,CIV,3
+15CV32,analog and digital,CIV3
+15CV33,data applications,CIV,3
+15CV34,computer oraganization,CIV,3
+15CV35,unix,CIV,3
+15CV36,DMS,CIV,3
+15MAT31,maths3,IS,3
+15IS32,analog and digital,IS,3
+15IS33,data applications,IS,3
+15IS34,computer oraganization,IS,3
+15IS35,unix,IS,3
+15IS36,DMS,IS,3
+
+15CS41,maths3,CSE,4
+15CS42,OOPS,CSE,4
+15CS43,software Engineering,CSE,4
+15CS44,analysis and design ,CSE,4
+15CS45,microprocessor,CSE,4
+15CS46,data communication,CSE,4
+15EC41,maths3,ECE,4
+15EC42,OOPS,ECE,4
+15EC43,software Engineering,ECE,4
+15EC44,analysis and design ,ECE,4
+15EC45,microprocessor,ECE,4
+15EC46,data communication,ECE,4
+15CV41,maths3,CIV,4
+15CV42,OOPS,CIV,4
+15CV43,software Engineering,CIV,4
+15CV44,analysis and design ,CIV,4
+15CV45,microprocessor,CIV,4
+15CV46,data communication,CIV,4
+15IS41,maths3,IS,4
+15IS42,OOPS,IS,4
+15IS43,software Engineering,IS,4
+15IS44,analysis and design ,IS,4
+15IS45,microprocessor,IS,4
+15IS46,data communication,IS,4
+
+15CS51,entrepreneurship,CSE,5
+15CS52,networks,CSE,5
+15CS53,artificial intelligence,CSE,5
+15CS54,java,CSE,5
+15CS55,automata theory,CSE,5
+15CS56,database,CSE,5
+15EC51,entrepreneurship,ECE,5
+15EC52,networks,ECE,5
+15EC53,artificial intelligence,ECE,5
+15EC54,java,ECE,5
+15EC55,automata theory,ECE,5
+15EC56,database,ECE,5
+15CV51,entrepreneurship,CIV,5
+15CV52,networks,CIV,5
+15CV53,artificial intelligence,CIV,5
+15CV54,java,CIV,5
+15CV55,automata theory,CIV,5
+15CV56,database,CIV,5
+15IS51,entrepreneurship,IS,5
+15IS52,networks,IS,5
+15IS53,artificial intelligence,IS,5
+15IS54,java,IS,5
+15IS54,automata theory,IS,5
+15IS55,database,IS,5
+
+15CS61,mobile app,CSE,6
+15CS62,cryptography,CSE,6
+15CS63,graphics,CSE,6
+15CS64,operating system,CSE,6
+15CS65,operation research,CSE,6
+15CS66,system software,CSE,6
+15EC61,mobile app,ECE,6
+15EC62,cryptography,ECE,6
+15EC63,graphics,ECE,6
+15EC64,operating system,ECE,6
+15EC65,operation research,ECE,6
+15EC66,system software,ECE,6
+15CV61,mobile app,CIV,6
+15CV62,cryptography,CIV,6
+15CV63,graphics,CIV,6
+15CV64,operating system,CIV,6
+15CV65,operation research,CIV,6
+15CV66,system software,CIV,6
+15IS61,mobile app,IS,6
+15IS62,cryptography,IS,6
+15IS63,graphics,IS,6
+15IS64,operating system,IS,6
+15IS65,operation research,IS,6
+15IS66,system software,IS,6
+
+
+
+
+
+
